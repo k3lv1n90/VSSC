@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Video\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=fileName\ owner
+comment1.target=Video(java.lang.String,\ java.net.InetAddress)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Video\r\n\ \r\n\ @param\ fileName\ the\ file\ name\r\n\ @param\ size\ the\ file\ size\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFileName()
+comment2.text=\r\n\ An\ accessor\ method\ to\ return\ the\ file\ name\r\n\r\n\ @return\ fileName\ the\ file\ name\r\n
+comment3.params=
+comment3.target=java.net.InetAddress\ getOwnerINET()
+comment3.text=\r\n\ An\ accessor\ method\ to\ return\ the\ file\ host\r\n\r\n\ @return\ fileName\ the\ file\ host\r\n
+comment4.params=
+comment4.target=java.lang.String\ getOwnerSTR()
+comment4.text=\r\n\ An\ accessor\ method\ to\ return\ the\ file\ host\r\n\r\n\ @return\ fileName\ the\ file\ host\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ A\ method\ to\ return\ details\ of\ video\ file\r\n\r\n\ @return\ fileName\ the\ file\ name\r\n
+numComments=6
