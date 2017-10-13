@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ This\ class\ is\ responsible\ to\ start\ the\ application.\r\n\ \r\n\ @author\ \ Deniz\ Sumner\r\n\ @version\ v1.0.1738\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ application\ starts\ execution\ from\ this\ method.\r\n\ The\ console\ UserInterface\ is\ called\ from\ this\ method.\r\n\ Company\ class\ object\ is\ initialized\ from\ this\ method.\r\n\ \r\n
+numComments=2
